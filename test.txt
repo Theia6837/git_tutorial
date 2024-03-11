@@ -1,3 +1,7 @@
 test
 test_branch says this is test
+<<<<<<< HEAD
 now master says this is master
+=======
+test name is test
+>>>>>>> test_branch
